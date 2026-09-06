@@ -1,23 +1,36 @@
-# 👋 Hi, I'm Awais Naveed
+<h1 align="center">👋 Hi, I'm Awais Naveed</h1>
 
-### 💻 Software Engineering Student | Full-Stack Development | AI Software Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Full-Stack+Developer;AI+Software+Engineer" alt="Typing SVG" />
+</p>
 
-**Full-Stack Development • Generative AI • AI/ML**
+<br>
 
-Learning to build intelligent, real-world applications by combining  
-**Full-Stack Development** with **Artificial Intelligence**.
+<p align="center">
+  <strong>💻 Software Engineering</strong>
+  &nbsp; • &nbsp;
+  <strong>🌐 Full-Stack Development</strong>
+  &nbsp; • &nbsp;
+  <strong>✨ Generative AI</strong>
+</p>
+
+<br>
+
+<p align="center">
+  Building practical, real-world applications with a strong
+  <strong>Software Engineering</strong> foundation, developing
+  <strong>Full-Stack</strong> skills, and learning how to integrate
+  <strong>Generative AI</strong> into modern software.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 I'm a **Software Engineering student** working toward becoming an **AI Software Engineer**.
-
-🤖 My primary focus is **Software Engineering**, with a growing interest in **Generative AI**, followed by **Artificial Intelligence & Machine Learning**.
-
-💻 Alongside Software Engineering, I'm learning **Full-Stack Development** so I can integrate AI into real-world applications and products.
-
-🌱 I'm continuously learning, experimenting, and building projects to strengthen my programming and software development skills.
+- 🎓 I'm a **Software Engineering student** working toward becoming an **AI Software Engineer**.
+- 💻 I'm building my **Full-Stack Development** skills as part of my Software Engineering journey.
+- ✨ I'm currently learning **Generative AI** and exploring how to integrate AI capabilities into the software I build.
+- 🌱 I'm continuously learning, experimenting, and building projects to strengthen my **programming, software engineering, and problem-solving skills**.
 
 ---
 
