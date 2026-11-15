@@ -1,80 +1,64 @@
 <h1 align="center">👋 Hi, I'm Awais Naveed</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Full-Stack+Developer;AI+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Exploring+AI+Automation;Working+on+YouTube+Automation;Building+Digital+Skills" alt="Typing SVG" />
 </p>
 
-<br>
-
 <p align="center">
-  <strong>💻 Software Engineering</strong>
-  &nbsp; • &nbsp;
-  <strong>🌐 Full-Stack Development</strong>
-  &nbsp; • &nbsp;
-  <strong>✨ Generative AI</strong>
+  🤖 AI Automation &nbsp; • &nbsp;
+  🎬 YouTube Automation &nbsp; • &nbsp;
+  ✨ Generative AI
 </p>
 
-<br>
-
 <p align="center">
-  Building practical, real-world applications with a strong
-  <strong>Software Engineering</strong> foundation, developing
-  <strong>Full-Stack</strong> skills, and learning how to integrate
-  <strong>Generative AI</strong> into modern software.
+  Exploring AI-powered tools, content workflows, and digital solutions while continuously developing practical skills through hands-on learning and personal projects.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 I'm a **Software Engineering student** working toward becoming an **AI Software Engineer**.
-- 💻 I'm building my **Full-Stack Development** skills as part of my Software Engineering journey.
-- ✨ I'm currently learning **Generative AI** and exploring how to integrate AI capabilities into the software I build.
-- 🌱 I'm continuously learning, experimenting, and building projects to strengthen my **programming, software engineering, and problem-solving skills**.
+- 🎓 Completed Intermediate education.
+- 🤖 Currently focused on **AI Automation and YouTube Automation**.
+- ✨ Exploring Generative AI and practical AI tools.
+- 📊 Completed a Data Analytics course covering Python, SQL, Excel, Power BI, and Tableau.
+- 🛒 Have practical experience in E-commerce Services
+- 🌱 Always learning, experimenting, and improving my digital and technical skills.
 
 ---
 
-## 🎯 My Direction
+## 🎯 My Current Focus
 
-**Software Engineering → Full-Stack Development → Generative AI → AI-Powered Applications**
+**AI Automation → Generative AI → Digital Solutions**
 
 ---
 
-## 🔍 Areas I'm Exploring
+## 🔍 Skills & Areas
 
-- 🌐 Full-Stack Development
+- 🤖 AI Automation
+- 🎬 YouTube Automation
 - ✨ Generative AI
-- 🤖 AI/ML
-- 🧠 Deep Learning
+- 📊 Data Analytics
+- 🛒 E-commerce
+- 🎨 Graphic Designing
+- 🐍 Python Programming
 
 ---
 
-## 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,mysql,git,github" />
-</p>
+## 📚 Learning & Improving
 
----
-
-## 📚 Currently Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react" />
-</p>
-
-- 🐍 Python
-- ⚡ C++
-- 🌐 HTML & CSS
-- 💻 JavaScript
-- ⚛️ React
+- 🤖 AI Automation & AI Tools
+- 🎬 YouTube Automation
 - ✨ Generative AI
+- 📊 Data Analytics
+- 🛒 E-commerce Services
+- 🎨 Graphic Designing
 
 ---
 
 ## 🎓 My Goal
 
-My goal is to become an **AI Software Engineer** who can combine strong **Full-Stack Development**, and **Artificial Intelligence** skills to build useful, intelligent, and real-world applications.
+To develop strong skills in AI, automation, and digital technologies, and use them to create practical solutions, improve workflows, and build valuable digital projects.
 
 ---
 
